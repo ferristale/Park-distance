@@ -1,0 +1,1352 @@
+Skip to main content <#main-content>
+
+Google Maps Platform
+
+<https://developers.google.com/maps>
+
+  * Google Maps Platform <https://developers.google.com/maps>
+
+Overview <https://mapsplatform.google.com/>
+
+Products <https://mapsplatform.google.com/maps-products/>
+
+★ Pricing <https://mapsplatform.google.com/pricing/>
+
+Documentation <https://developers.google.com/maps/documentation>
+
+  * Get Started
+  *
+    Get Started with Google Maps Platform
+    <https://developers.google.com/maps/get-started>
+  *
+    API Picker
+    <https://developers.google.com/maps/documentation/api-picker>
+  *
+    ★ Pricing & Billing
+    <https://developers.google.com/maps/billing-and-pricing/overview>
+  *
+    Security & Compliance
+    <https://mapsplatform.google.com/resources/trust-center>
+  *
+    Reporting & Monitoring
+    <https://developers.google.com/maps/reporting-and-monitoring/overview>
+  *
+    FAQ
+    <https://developers.google.com/maps/faq>
+  *
+    Support and Resources
+    <https://developers.google.com/maps/support>
+  *
+    Customer Care
+    <https://developers.google.com/maps/support/care>
+  *
+    Incident Management
+    <https://developers.google.com/maps/incident-management>
+
+  * Maps
+  *
+    Maps JavaScript API
+    <https://developers.google.com/maps/documentation/javascript>
+  *
+    Maps SDK for Android
+    <https://developers.google.com/maps/documentation/android-sdk>
+  *
+    Maps SDK for iOS
+    <https://developers.google.com/maps/documentation/ios-sdk>
+  *
+    Google Maps for Flutter
+    <https://developers.google.com/maps/flutter-package/overview>
+  *
+    Maps Embed API
+    <https://developers.google.com/maps/documentation/embed>
+  *
+    Maps Static API
+    <https://developers.google.com/maps/documentation/maps-static>
+  *
+    Street View Static API
+    <https://developers.google.com/maps/documentation/streetview>
+  *
+    Maps URLs
+    <https://developers.google.com/maps/documentation/urls>
+  *
+    Aerial View API
+    <https://developers.google.com/maps/documentation/aerial-view>
+  *
+    Elevation API
+    <https://developers.google.com/maps/documentation/elevation>
+  *
+    Map Tiles API
+    <https://developers.google.com/maps/documentation/tile>
+  *
+    Maps Datasets API
+    <https://developers.google.com/maps/documentation/datasets>
+  *
+    Web Components (Preview)
+    <https://developers.google.com/maps/documentation/web-components>
+
+  * Routes
+  *
+    Routes API
+    <https://developers.google.com/maps/documentation/routes>
+  *
+    Navigation SDK for Android
+    <https://developers.google.com/maps/documentation/navigation/
+    android-sdk>
+  *
+    Navigation SDK for iOS
+    <https://developers.google.com/maps/documentation/navigation/ios-sdk>
+  *
+    Navigation for Flutter
+    <https://developers.google.com/maps/documentation/cross-platform/
+    navigation>
+  *
+    Navigation for React Native
+    <https://developers.google.com/maps/documentation/cross-platform/
+    navigation>
+  *
+    Roads API
+    <https://developers.google.com/maps/documentation/roads>
+  *
+    Route Optimization API
+    <https://developers.google.com/maps/documentation/route-optimization>
+
+  * Solutions
+  *
+    Industry solutions
+    <https://developers.google.com/maps/solutions>
+  *
+    Mobility services
+    <https://developers.google.com/maps/documentation/mobility>
+
+  * Places
+  *
+    Places API
+    <https://developers.google.com/maps/documentation/places/web-service>
+  *
+    Places SDK for Android
+    <https://developers.google.com/maps/documentation/places/android-sdk>
+  *
+    Places SDK for iOS
+    <https://developers.google.com/maps/documentation/places/ios-sdk>
+  *
+    Places Library, Maps JavaScript API
+    <https://developers.google.com/maps/documentation/javascript/places-js>
+  *
+    Geocoding API
+    <https://developers.google.com/maps/documentation/geocoding>
+  *
+    Geolocation API
+    <https://developers.google.com/maps/documentation/geolocation>
+  *
+    Address Validation API
+    <https://developers.google.com/maps/documentation/address-validation>
+  *
+    Time Zone API
+    <https://developers.google.com/maps/documentation/timezone>
+  *
+    Places Aggregate API
+    <https://developers.google.com/maps/documentation/places-aggregate>
+
+  * Environment
+  *
+    Air Quality API
+    <https://developers.google.com/maps/documentation/air-quality>
+  *
+    Pollen API
+    <https://developers.google.com/maps/documentation/pollen>
+  *
+    Solar API
+    <https://developers.google.com/maps/documentation/solar>
+  *
+    Weather API (Preview)
+    <https://developers.google.com/maps/documentation/weather>
+
+  * Additional Resources
+  *
+    API Security Best Practices
+    <https://developers.google.com/maps/api-security-best-practices>
+  *
+    Digital Signature Guide
+    <https://developers.google.com/maps/digital-signature>
+  *
+    Map Coverage Details
+    <https://developers.google.com/maps/coverage>
+  *
+    Optimization Guide
+    <https://developers.google.com/maps/optimization-guide>
+  *
+    Mobile OS and software support
+    <https://developers.google.com/maps/software-support>
+  *
+    Launch stages
+    <https://developers.google.com/maps/launch-stages>
+  *
+    Legacy products
+    <https://developers.google.com/maps/legacy>
+  *
+    Deprecations
+    <https://developers.google.com/maps/deprecations>
+  *
+    Asset Tracking Plan
+    <https://developers.google.com/maps/asset-tracking-plan>
+  *
+    URL Encoding
+    <https://developers.google.com/maps/url-encoding>
+  *
+    WordPress Users
+    <https://developers.google.com/maps/third-party-platforms/wordpress>
+
+Blog <https://mapsplatform.google.com/resources/blog>
+
+Community <https://developers.google.com/maps/developer-community>
+
+  *
+    GitHub
+    <https://github.com/googlemaps/>
+  *
+    YouTube
+    <https://www.youtube.com/c/GoogleMapsPlatform>
+  *
+    LinkedIn
+    <https://www.linkedin.com/showcase/googlemapsplatform/>
+  *
+    Discord
+    <https://discord.gg/f4hvx8Rp2q>
+  *
+    Innovators
+    <https://developers.google.com/maps/innovators>
+  *
+    Issue Tracker
+    <https://issuetracker.google.com/bookmark-groups/76561>
+
+More
+
+/
+
+  * English <https://developers.google.com/maps/documentation/
+    javascript/examples/distance-matrix#maps_distance_matrix-typescript>
+  * Deutsch <https://developers.google.com/maps/documentation/
+    javascript/examples/distance-matrix?hl=de#maps_distance_matrix-
+    typescript>
+  * Español <https://developers.google.com/maps/documentation/
+    javascript/examples/distance-matrix?hl=es#maps_distance_matrix-
+    typescript>
+  * Français <https://developers.google.com/maps/documentation/
+    javascript/examples/distance-matrix?hl=fr#maps_distance_matrix-
+    typescript>
+  * Indonesia <https://developers.google.com/maps/documentation/
+    javascript/examples/distance-matrix?hl=id#maps_distance_matrix-
+    typescript>
+  * Português – Brasil <https://developers.google.com/maps/
+    documentation/javascript/examples/distance-matrix?hl=pt-
+    br#maps_distance_matrix-typescript>
+  * Русский <https://developers.google.com/maps/documentation/
+    javascript/examples/distance-matrix?hl=ru#maps_distance_matrix-
+    typescript>
+  * 中文 – 简体 <https://developers.google.com/maps/documentation/
+    javascript/examples/distance-matrix?hl=zh-cn#maps_distance_matrix-
+    typescript>
+  * 日本語 <https://developers.google.com/maps/documentation/javascript/
+    examples/distance-matrix?hl=ja#maps_distance_matrix-typescript>
+  * 한국어 <https://developers.google.com/maps/documentation/javascript/
+    examples/distance-matrix?hl=ko#maps_distance_matrix-typescript>
+
+Google Developer ProgramView your saved pages and finish your Google
+Developer Profile setup here.
+
+<https://accounts.google.com/SignOutOptions?
+hl=en&continue=https%3A%2F%2Fdevelopers.google.com%2Fmaps%2Fdocumentation%2Fjavascript%2Fexamples%2Fdistance-matrix%23maps_distance_matrix-javascript&ec=GBRAywI>
+
+  * Web <https://developers.google.com/maps/web>
+  *
+    Maps JavaScript API <https://developers.google.com/maps/
+    documentation/javascript>
+
+Get Started <https://console.cloud.google.com/google/maps-apis/start?
+utm_source=Docs_GS_Button&utm_content=Docs_maps-backend> Contact sales
+<https://mapsplatform.google.com/contact-us/>
+Guides <https://developers.google.com/maps/documentation/javascript>
+
+Reference <https://developers.google.com/maps/documentation/javascript/
+reference>
+
+Samples <https://developers.google.com/maps/documentation/javascript/
+examples>
+
+Resources <https://developers.google.com/maps/documentation/javascript/
+support>
+
+Legacy <https://developers.google.com/maps/documentation/javascript/
+legacy/places>
+
+More
+
+Google Maps Platform
+
+<https://developers.google.com/maps>
+
+  * Google Maps Platform <https://developers.google.com/maps>
+
+  * Overview <https://mapsplatform.google.com/>
+  * Products <https://mapsplatform.google.com/maps-products/>
+  * ★ Pricing <https://mapsplatform.google.com/pricing/>
+  * Documentation <https://developers.google.com/maps/documentation>
+      o More
+      o Guides <https://developers.google.com/maps/documentation/
+        javascript>
+      o Reference <https://developers.google.com/maps/documentation/
+        javascript/reference>
+      o Samples <https://developers.google.com/maps/documentation/
+        javascript/examples>
+      o Resources <https://developers.google.com/maps/documentation/
+        javascript/support>
+      o Legacy <https://developers.google.com/maps/documentation/
+        javascript/legacy/places>
+  * Blog <https://mapsplatform.google.com/resources/blog>
+  * Community <https://developers.google.com/maps/developer-community>
+      o More
+
+  * Overview <https://developers.google.com/maps/documentation/
+    javascript/examples>
+  *
+    Basics
+      o Simple Map <https://developers.google.com/maps/documentation/
+        javascript/examples/map-simple>
+      o Showing Pixel and Tile Coordinates <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        map-coordinates>
+      o Geolocation <https://developers.google.com/maps/documentation/
+        javascript/examples/map-geolocation>
+      o Localizing the Map <https://developers.google.com/maps/
+        documentation/javascript/examples/map-language>
+      o Right-to-Left Languages <https://developers.google.com/maps/
+        documentation/javascript/examples/map-rtl>
+      o Custom Map Projections <https://developers.google.com/maps/
+        documentation/javascript/examples/map-projection-simple>
+      o Lat/Lng Object Literal <https://developers.google.com/maps/
+        documentation/javascript/examples/map-latlng-literal>
+  *
+    Events
+      o Simple Click Events <https://developers.google.com/maps/
+        documentation/javascript/examples/event-simple>
+      o Using Closures in Event Listeners <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        event-closure>
+      o Accessing Arguments in UI Events <https://developers.google.com/
+        maps/documentation/javascript/examples/event-arguments>
+      o Getting Properties With Event Handlers <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        event-properties>
+      o Getting Lat/Lng from a Click Event <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        event-click-latlng>
+      o Listening to DOM Events <https://developers.google.com/maps/
+        documentation/javascript/examples/event-domListener>
+      o POI Click Events <https://developers.google.com/maps/
+        documentation/javascript/examples/event-poi>
+  *
+    Controls and Interaction
+      o Default Controls <https://developers.google.com/maps/
+        documentation/javascript/examples/control-default>
+      o Disabling the Default UI <https://developers.google.com/maps/
+        documentation/javascript/examples/control-disableUI>
+      o Replacing Default Controls <https://developers.google.com/maps/
+        documentation/javascript/examples/control-replacement>
+      o Adding Controls to the Map <https://developers.google.com/maps/
+        documentation/javascript/examples/control-simple>
+      o Control Options <https://developers.google.com/maps/
+        documentation/javascript/examples/control-options>
+      o Control Positioning <https://developers.google.com/maps/
+        documentation/javascript/examples/control-positioning>
+      o Custom Controls <https://developers.google.com/maps/
+        documentation/javascript/examples/control-custom>
+      o Adding State to Controls <https://developers.google.com/maps/
+        documentation/javascript/examples/control-custom-state>
+      o Cooperative Gesture Handling <https://developers.google.com/
+        maps/documentation/javascript/examples/interaction-cooperative>
+      o Restricting Map Bounds <https://developers.google.com/maps/
+        documentation/javascript/examples/control-bounds-restriction>
+      o Resizable Split Map Panes <https://developers.google.com/maps/
+        documentation/javascript/examples/split-map-panes>
+      o Inset Overview Map <https://developers.google.com/maps/
+        documentation/javascript/examples/inset-map>
+  *
+    Add markers to the Map
+      o
+        Advanced Markers
+      o Create an advanced marker <https://developers.google.com/maps/
+        documentation/javascript/examples/advanced-markers-simple>
+      o Customize advanced markers <https://developers.google.com/maps/
+        documentation/javascript/examples/advanced-markers-basic-style>
+      o Create markers with graphics <https://developers.google.com/
+        maps/documentation/javascript/examples/advanced-markers-graphics>
+      o Create markers with HTML and CSS <https://developers.google.com/
+        maps/documentation/javascript/examples/advanced-markers-html-simple>
+      o Create interactive markers using HTML <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        advanced-markers-html>
+      o Animate markers using CSS <https://developers.google.com/maps/
+        documentation/javascript/examples/advanced-markers-animation>
+      o Control marker collision behavior <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        advanced-markers-collision>
+      o Set marker altitude <https://developers.google.com/maps/
+        documentation/javascript/examples/advanced-markers-altitude>
+      o Control marker visibility by zoom level <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        advanced-markers-zoom>
+      o Make markers clickable and accessible <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        advanced-markers-accessibility>
+      o Make markers draggable <https://developers.google.com/maps/
+        documentation/javascript/examples/advanced-markers-draggable>
+      o Marker clustering <https://developers.google.com/maps/
+        documentation/javascript/examples/marker-clustering>
+      o
+        Markers (Legacy)
+      o Simple Markers <https://developers.google.com/maps/
+        documentation/javascript/examples/marker-simple>
+      o Marker Labels <https://developers.google.com/maps/documentation/
+        javascript/examples/marker-labels>
+      o Removing Markers <https://developers.google.com/maps/
+        documentation/javascript/examples/marker-remove>
+      o Markers with Image Icons <https://developers.google.com/maps/
+        documentation/javascript/examples/icon-simple>
+      o Markers with SVG and Font <https://developers.google.com/maps/
+        documentation/javascript/examples/marker-modern>
+      o Markers with Predefined Symbol Icons <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        marker-symbol-predefined>
+      o Markers with Vector-based Icons <https://developers.google.com/
+        maps/documentation/javascript/examples/marker-symbol-custom>
+      o Complex Marker Icons <https://developers.google.com/maps/
+        documentation/javascript/examples/icon-complex>
+      o Marker Accessibility <https://developers.google.com/maps/
+        documentation/javascript/examples/marker-accessibility>
+      o Marker Animations <https://developers.google.com/maps/
+        documentation/javascript/examples/marker-animations>
+      o Marker Animations With setTimeout() <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        marker-animations-iteration>
+  *
+    Draw on the Map
+      o Info Windows <https://developers.google.com/maps/documentation/
+        javascript/examples/infowindow-simple>
+      o Info Windows With maxWidth <https://developers.google.com/maps/
+        documentation/javascript/examples/infowindow-simple-max>
+      o Custom Popups <https://developers.google.com/maps/documentation/
+        javascript/examples/overlay-popup>
+      o Simple Polylines <https://developers.google.com/maps/
+        documentation/javascript/examples/polyline-simple>
+      o Removing Polylines <https://developers.google.com/maps/
+        documentation/javascript/examples/polyline-remove>
+      o Deleting a Vertex <https://developers.google.com/maps/
+        documentation/javascript/examples/delete-vertex-menu>
+      o Complex Polylines <https://developers.google.com/maps/
+        documentation/javascript/examples/polyline-complex>
+      o Simple Polygons <https://developers.google.com/maps/
+        documentation/javascript/examples/polygon-simple>
+      o Polygon Arrays <https://developers.google.com/maps/
+        documentation/javascript/examples/polygon-arrays>
+      o Polygon Auto-Completion <https://developers.google.com/maps/
+        documentation/javascript/examples/polygon-autoclose>
+      o Polygon with Hole <https://developers.google.com/maps/
+        documentation/javascript/examples/polygon-hole>
+      o Circles <https://developers.google.com/maps/documentation/
+        javascript/examples/circle-simple>
+      o Rectangles <https://developers.google.com/maps/documentation/
+        javascript/examples/rectangle-simple>
+      o Rectangle Zoom <https://developers.google.com/maps/
+        documentation/javascript/examples/rectangle-zoom>
+      o User-Editable Shapes <https://developers.google.com/maps/
+        documentation/javascript/examples/user-editable-shapes>
+      o Draggable Polygons <https://developers.google.com/maps/
+        documentation/javascript/examples/polygon-draggable>
+      o Listening to Events <https://developers.google.com/maps/
+        documentation/javascript/examples/rectangle-event>
+      o Ground Overlays <https://developers.google.com/maps/
+        documentation/javascript/examples/groundoverlay-simple>
+      o Removing Overlays <https://developers.google.com/maps/
+        documentation/javascript/examples/overlay-remove>
+      o Custom Overlays <https://developers.google.com/maps/
+        documentation/javascript/examples/overlay-simple>
+      o Animating Symbols <https://developers.google.com/maps/
+        documentation/javascript/examples/overlay-symbol-animate>
+      o Arrow Symbols (Polyline) <https://developers.google.com/maps/
+        documentation/javascript/examples/overlay-symbol-arrow>
+      o Custom Symbols (Polyline) <https://developers.google.com/maps/
+        documentation/javascript/examples/overlay-symbol-custom>
+      o Dashed Line Symbols (Polyline) <https://developers.google.com/
+        maps/documentation/javascript/examples/overlay-symbol-dashed>
+  *
+    Customizing the Map
+      o Marker Collision Management <https://developers.google.com/maps/
+        documentation/javascript/examples/marker-collision-management>
+      o Styled Maps - Map ID <https://developers.google.com/maps/
+        documentation/javascript/examples/map-id-style>
+      o Styled Maps - Night Mode <https://developers.google.com/maps/
+        documentation/javascript/examples/style-array>
+      o Styled Map Types <https://developers.google.com/maps/
+        documentation/javascript/examples/maptype-styled-simple>
+      o Hiding Map Features With Styling <https://developers.google.com/
+        maps/documentation/javascript/examples/hiding-features>
+      o Styled Map Selection <https://developers.google.com/maps/
+        documentation/javascript/examples/style-selector>
+  *
+    Data-driven Styling for Boundaries
+      o Style a Boundary Polygon <https://developers.google.com/maps/
+        documentation/javascript/examples/boundaries-simple>
+      o Make a Choropleth Map <https://developers.google.com/maps/
+        documentation/javascript/examples/boundaries-choropleth>
+      o Handle Click Events <https://developers.google.com/maps/
+        documentation/javascript/examples/boundaries-click>
+  *
+    Maps with HTML
+      o Add a Map using HTML <https://developers.google.com/maps/
+        documentation/javascript/examples/web-components-map>
+      o Add a Map with Markers using HTML <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        web-components-markers>
+      o Add a Map with Events using HTML <https://developers.google.com/
+        maps/documentation/javascript/examples/web-components-events>
+  *
+    Layers
+      o KML Layers <https://developers.google.com/maps/documentation/
+        javascript/examples/layer-kml>
+      o KML Feature Details <https://developers.google.com/maps/
+        documentation/javascript/examples/layer-kml-features>
+      o Data Layer: Polygon <https://developers.google.com/maps/
+        documentation/javascript/examples/layer-data-polygon>
+      o Data Layer: Simple <https://developers.google.com/maps/
+        documentation/javascript/examples/layer-data-simple>
+      o Data Layer: Styling <https://developers.google.com/maps/
+        documentation/javascript/examples/layer-data-style>
+      o Data Layer: Event Handling <https://developers.google.com/maps/
+        documentation/javascript/examples/layer-data-event>
+      o Data Layer: Dynamic Styling <https://developers.google.com/maps/
+        documentation/javascript/examples/layer-data-dynamic>
+      o Data Layer: Drag and Drop GeoJSON <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        layer-data-dragndrop>
+      o Data Layer: Earthquakes <https://developers.google.com/maps/
+        documentation/javascript/examples/layer-data-quakes>
+      o Heatmaps <https://developers.google.com/maps/documentation/
+        javascript/examples/layer-heatmap>
+      o GeoRSS Layers <https://developers.google.com/maps/documentation/
+        javascript/examples/layer-georss>
+      o Traffic Layer <https://developers.google.com/maps/documentation/
+        javascript/examples/layer-traffic>
+      o Transit Layer <https://developers.google.com/maps/documentation/
+        javascript/examples/layer-transit>
+      o Bicycle Layer <https://developers.google.com/maps/documentation/
+        javascript/examples/layer-bicycling>
+      o deck.gl ArcLayer <https://developers.google.com/maps/
+        documentation/javascript/examples/deckgl-arclayer>
+      o deck.gl Trips Layer <https://developers.google.com/maps/
+        documentation/javascript/examples/deckgl-tripslayer>
+      o deck.gl ScatterPlot GeoJsonLayer <https://developers.google.com/
+        maps/documentation/javascript/examples/deckgl-points>
+  *
+    Vector Map Features
+      o WebGL Overlays (Native API) <https://developers.google.com/maps/
+        documentation/javascript/examples/webgl/webgl-overlay-simple>
+      o WebGL Overlays (ThreeJS wrapper) <https://developers.google.com/
+        maps/documentation/javascript/examples/webgl/threejs-overlay-simple>
+      o Tilt and Rotation <https://developers.google.com/maps/
+        documentation/javascript/examples/webgl/webgl-tilt-rotation>
+      o Move Camera Easing <https://developers.google.com/maps/
+        documentation/javascript/examples/move-camera-ease>
+  *
+    Work with 3D Maps (Preview)
+      o
+        Basics
+          + Add a map<https://developers.google.com/maps/documentation/
+            javascript/examples/3d/simple-map>
+          + Add a map using HTML<https://developers.google.com/maps/
+            documentation/javascript/examples/3d/add-map-html>
+          + Change map mode<https://developers.google.com/maps/
+            documentation/javascript/examples/3d/toggle-labels>
+      o
+        Events
+          + Make polygons clickable<https://developers.google.com/maps/
+            documentation/javascript/examples/3d/polygon-click-event>
+          + Make polylines clickable<https://developers.google.com/maps/
+            documentation/javascript/examples/3d/polyline-click-event>
+          + Make models clickable<https://developers.google.com/maps/
+            documentation/javascript/examples/3d/model-click-event>
+      o
+        Controls and interaction
+          + Camera restrictions<https://developers.google.com/maps/
+            documentation/javascript/examples/3d/camera-restrictions>
+          + Camera positioning and movement<https://
+            developers.google.com/maps/documentation/javascript/
+            examples/3d/move-camera>
+      o
+        Add markers to the map
+          + Create markers<https://developers.google.com/maps/
+            documentation/javascript/examples/3d/marker>
+          + Make markers clickable<https://developers.google.com/maps/
+            documentation/javascript/examples/3d/marker-interactive>
+          + Make markers accessible<https://developers.google.com/maps/
+            documentation/javascript/examples/3d/marker-accessible>
+          + Trigger camera movement on marker click<https://
+            developers.google.com/maps/documentation/javascript/
+            examples/3d/marker-click-event>
+          + Add a popover to a marker<https://developers.google.com/
+            maps/documentation/javascript/examples/3d/popover-marker>
+          + Customize markers<https://developers.google.com/maps/
+            documentation/javascript/examples/3d/marker-customization>
+          + Customize markers with graphics<https://
+            developers.google.com/maps/documentation/javascript/
+            examples/3d/marker-graphics>
+          + Control marker collision behavior<https://
+            developers.google.com/maps/documentation/javascript/
+            examples/3d/marker-collision>
+      o
+        Draw on the map
+          + Basic polygon<https://developers.google.com/maps/
+            documentation/javascript/examples/3d/polygon>
+          + Polygon extruded hole<https://developers.google.com/maps/
+            documentation/javascript/examples/3d/polygon-extruded-hole>
+          + Basic polyline<https://developers.google.com/maps/
+            documentation/javascript/examples/3d/polyline>
+          + Extruded polyline<https://developers.google.com/maps/
+            documentation/javascript/examples/3d/polyline-extruded>
+          + Popover<https://developers.google.com/maps/documentation/
+            javascript/examples/3d/popover>
+          + Models<https://developers.google.com/maps/documentation/
+            javascript/examples/3d/models>
+      o
+        Places (New)
+          + Make places clickable<https://developers.google.com/maps/
+            documentation/javascript/examples/3d/place-click>
+          + Place Autocomplete Widget<https://developers.google.com/
+            maps/documentation/javascript/examples/3d/places-autocomplete>
+  *
+    MapTypes
+      o Basic Map Types <https://developers.google.com/maps/
+        documentation/javascript/examples/maptype-base>
+      o Overlay Map Types <https://developers.google.com/maps/
+        documentation/javascript/examples/maptype-overlay>
+      o Image Map Types <https://developers.google.com/maps/
+        documentation/javascript/examples/maptype-image>
+      o Overlaying an Image Map Type <https://developers.google.com/
+        maps/documentation/javascript/examples/maptype-image-overlay>
+      o 45° Imagery <https://developers.google.com/maps/documentation/
+        javascript/examples/aerial-simple>
+      o Rotating 45° Imagery <https://developers.google.com/maps/
+        documentation/javascript/examples/aerial-rotation>
+  *
+    Services
+      o Geocoding Service <https://developers.google.com/maps/
+        documentation/javascript/examples/geocoding-simple>
+      o Reverse Geocoding <https://developers.google.com/maps/
+        documentation/javascript/examples/geocoding-reverse>
+      o Get the Address for a Place ID <https://developers.google.com/
+        maps/documentation/javascript/examples/geocoding-place-id>
+      o Geocoding Component Restriction <https://developers.google.com/
+        maps/documentation/javascript/examples/geocoding-component-
+        restriction>
+      o Region Code Biasing (ES) <https://developers.google.com/maps/
+        documentation/javascript/examples/geocoding-region-es>
+      o Region Code Biasing (US) <https://developers.google.com/maps/
+        documentation/javascript/examples/geocoding-region-us>
+      o Directions Service <https://developers.google.com/maps/
+        documentation/javascript/examples/directions-simple>
+      o Displaying Text Directions With setPanel() <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        directions-panel>
+      o Directions Service (Complex) <https://developers.google.com/
+        maps/documentation/javascript/examples/directions-complex>
+      o Travel Modes in Directions <https://developers.google.com/maps/
+        documentation/javascript/examples/directions-travel-modes>
+      o Waypoints in Directions <https://developers.google.com/maps/
+        documentation/javascript/examples/directions-waypoints>
+      o Draggable Directions <https://developers.google.com/maps/
+        documentation/javascript/examples/directions-draggable>
+      o Distance Matrix Service <https://developers.google.com/maps/
+        documentation/javascript/examples/distance-matrix>
+      o Elevation Service <https://developers.google.com/maps/
+        documentation/javascript/examples/elevation-simple>
+      o Showing Elevation Along a Path <https://developers.google.com/
+        maps/documentation/javascript/examples/elevation-paths>
+      o Street View Containers <https://developers.google.com/maps/
+        documentation/javascript/examples/streetview-embed>
+      o Street View Side-By-Side <https://developers.google.com/maps/
+        documentation/javascript/examples/streetview-simple>
+      o Overlays Within Street View <https://developers.google.com/maps/
+        documentation/javascript/examples/streetview-overlays>
+      o Street View Events <https://developers.google.com/maps/
+        documentation/javascript/examples/streetview-events>
+      o Street View Controls <https://developers.google.com/maps/
+        documentation/javascript/examples/streetview-controls>
+      o Directly Accessing Street View Data <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        streetview-service>
+      o Custom Street View Panoramas <https://developers.google.com/
+        maps/documentation/javascript/examples/streetview-custom-simple>
+      o Custom Street View Panorama Tiles <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        streetview-custom-tiles>
+      o Maximum Zoom Imagery Service <https://developers.google.com/
+        maps/documentation/javascript/examples/maxzoom-simple>
+  *
+    Libraries: Drawing
+      o Drawing Tools <https://developers.google.com/maps/documentation/
+        javascript/examples/drawing-tools>
+  *
+    Libraries: Geometry
+      o Navigation Functions (Heading) <https://developers.google.com/
+        maps/documentation/javascript/examples/geometry-headings>
+      o Encoding Methods <https://developers.google.com/maps/
+        documentation/javascript/examples/geometry-encodings>
+      o containsLocation() <https://developers.google.com/maps/
+        documentation/javascript/examples/poly-containsLocation>
+  *
+    Address Validation
+      o Address Validation <https://developers.google.com/maps/
+        documentation/javascript/examples/address-validation>
+  *
+    Places (New)
+      o Text Search (New) <https://developers.google.com/maps/
+        documentation/javascript/examples/place-text-search>
+      o Nearby Search (New) <https://developers.google.com/maps/
+        documentation/javascript/examples/place-nearby-search>
+      o Place Details <https://developers.google.com/maps/documentation/
+        javascript/examples/place-class>
+      o Place Photos <https://developers.google.com/maps/documentation/
+        javascript/examples/place-photos>
+      o Place Reviews <https://developers.google.com/maps/documentation/
+        javascript/examples/place-reviews>
+      o Place Autocomplete Widget <https://developers.google.com/maps/
+        documentation/javascript/examples/place-autocomplete-map>
+      o Place Autocomplete Element <https://developers.google.com/maps/
+        documentation/javascript/examples/place-autocomplete-element>
+      o Place Autocomplete Data Predictions <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        place-autocomplete-data-simple>
+      o Place Autocomplete Data Sessions <https://developers.google.com/
+        maps/documentation/javascript/examples/place-autocomplete-data-
+        session>
+  *
+    Places Service (Legacy)
+      o Place Searches <https://developers.google.com/maps/
+        documentation/javascript/examples/place-search>
+      o Place Details <https://developers.google.com/maps/documentation/
+        javascript/examples/place-details>
+      o Place Search Pagination <https://developers.google.com/maps/
+        documentation/javascript/examples/place-search-pagination>
+      o Place Autocomplete (Legacy) <https://developers.google.com/maps/
+        documentation/javascript/examples/places-autocomplete>
+      o Place Autocomplete Address Form (Legacy) <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        places-autocomplete-addressform>
+      o Place Autocomplete Hotel Search (Legacy) <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        places-autocomplete-hotelsearch>
+      o Place Autocomplete Restricted to Multiple Countries (Legacy)
+        <https://developers.google.com/maps/documentation/javascript/
+        examples/places-autocomplete-multiple-countries>
+      o Places Search Box (Legacy) <https://developers.google.com/maps/
+        documentation/javascript/examples/places-searchbox>
+      o Retrieving Autocomplete Predictions (Legacy) <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        places-queryprediction>
+      o Place ID Finder <https://developers.google.com/maps/
+        documentation/javascript/examples/places-placeid-finder>
+      o Place ID Geocoder <https://developers.google.com/maps/
+        documentation/javascript/examples/places-placeid-geocoder>
+      o Place Autocomplete and Directions <https://
+        developers.google.com/maps/documentation/javascript/examples/
+        places-autocomplete-directions>
+  *
+    React Google Maps Library
+      o Basic Map <https://developers.google.com/maps/documentation/
+        javascript/examples/rgm-basic-map>
+      o Place Autocomplete <https://developers.google.com/maps/
+        documentation/javascript/examples/rgm-autocomplete>
+      o Extended Component Library <https://developers.google.com/maps/
+        documentation/javascript/examples/rgm-college-picker>
+  *
+    Fun
+      o Map Puzzle <https://developers.google.com/maps/documentation/
+        javascript/examples/puzzle>
+
+  * Get Started
+  * Get Started with Google Maps Platform <https://
+    developers.google.com/maps/get-started>
+  * API Picker <https://developers.google.com/maps/documentation/api-
+    picker>
+  * ★ Pricing & Billing <https://developers.google.com/maps/billing-and-
+    pricing/overview>
+  * Security & Compliance <https://mapsplatform.google.com/resources/
+    trust-center>
+  * Reporting & Monitoring <https://developers.google.com/maps/
+    reporting-and-monitoring/overview>
+  * FAQ <https://developers.google.com/maps/faq>
+  * Support and Resources <https://developers.google.com/maps/support>
+  * Customer Care <https://developers.google.com/maps/support/care>
+  * Incident Management <https://developers.google.com/maps/incident-
+    management>
+  * Maps
+  * Maps JavaScript API <https://developers.google.com/maps/
+    documentation/javascript>
+  * Maps SDK for Android <https://developers.google.com/maps/
+    documentation/android-sdk>
+  * Maps SDK for iOS <https://developers.google.com/maps/documentation/
+    ios-sdk>
+  * Google Maps for Flutter <https://developers.google.com/maps/flutter-
+    package/overview>
+  * Maps Embed API <https://developers.google.com/maps/documentation/embed>
+  * Maps Static API <https://developers.google.com/maps/documentation/
+    maps-static>
+  * Street View Static API <https://developers.google.com/maps/
+    documentation/streetview>
+  * Maps URLs <https://developers.google.com/maps/documentation/urls>
+  * Aerial View API <https://developers.google.com/maps/documentation/
+    aerial-view>
+  * Elevation API <https://developers.google.com/maps/documentation/
+    elevation>
+  * Map Tiles API <https://developers.google.com/maps/documentation/tile>
+  * Maps Datasets API <https://developers.google.com/maps/documentation/
+    datasets>
+  * Web Components (Preview) <https://developers.google.com/maps/
+    documentation/web-components>
+  * Routes
+  * Routes API <https://developers.google.com/maps/documentation/routes>
+  * Navigation SDK for Android <https://developers.google.com/maps/
+    documentation/navigation/android-sdk>
+  * Navigation SDK for iOS <https://developers.google.com/maps/
+    documentation/navigation/ios-sdk>
+  * Navigation for Flutter <https://developers.google.com/maps/
+    documentation/cross-platform/navigation>
+  * Navigation for React Native <https://developers.google.com/maps/
+    documentation/cross-platform/navigation>
+  * Roads API <https://developers.google.com/maps/documentation/roads>
+  * Route Optimization API <https://developers.google.com/maps/
+    documentation/route-optimization>
+  * Solutions
+  * Industry solutions <https://developers.google.com/maps/solutions>
+  * Mobility services <https://developers.google.com/maps/documentation/
+    mobility>
+  * Places
+  * Places API <https://developers.google.com/maps/documentation/places/
+    web-service>
+  * Places SDK for Android <https://developers.google.com/maps/
+    documentation/places/android-sdk>
+  * Places SDK for iOS <https://developers.google.com/maps/
+    documentation/places/ios-sdk>
+  * Places Library, Maps JavaScript API <https://developers.google.com/
+    maps/documentation/javascript/places-js>
+  * Geocoding API <https://developers.google.com/maps/documentation/
+    geocoding>
+  * Geolocation API <https://developers.google.com/maps/documentation/
+    geolocation>
+  * Address Validation API <https://developers.google.com/maps/
+    documentation/address-validation>
+  * Time Zone API <https://developers.google.com/maps/documentation/
+    timezone>
+  * Places Aggregate API <https://developers.google.com/maps/
+    documentation/places-aggregate>
+  * Environment
+  * Air Quality API <https://developers.google.com/maps/documentation/
+    air-quality>
+  * Pollen API <https://developers.google.com/maps/documentation/pollen>
+  * Solar API <https://developers.google.com/maps/documentation/solar>
+  * Weather API (Preview) <https://developers.google.com/maps/
+    documentation/weather>
+  * Additional Resources
+  * API Security Best Practices <https://developers.google.com/maps/api-
+    security-best-practices>
+  * Digital Signature Guide <https://developers.google.com/maps/digital-
+    signature>
+  * Map Coverage Details <https://developers.google.com/maps/coverage>
+  * Optimization Guide <https://developers.google.com/maps/optimization-
+    guide>
+  * Mobile OS and software support <https://developers.google.com/maps/
+    software-support>
+  * Launch stages <https://developers.google.com/maps/launch-stages>
+  * Legacy products <https://developers.google.com/maps/legacy>
+  * Deprecations <https://developers.google.com/maps/deprecations>
+  * Asset Tracking Plan <https://developers.google.com/maps/asset-
+    tracking-plan>
+  * URL Encoding <https://developers.google.com/maps/url-encoding>
+  * WordPress Users <https://developers.google.com/maps/third-party-
+    platforms/wordpress>
+
+  * GitHub <https://github.com/googlemaps/>
+  * YouTube <https://www.youtube.com/c/GoogleMapsPlatform>
+  * LinkedIn <https://www.linkedin.com/showcase/googlemapsplatform/>
+  * Discord <https://discord.gg/f4hvx8Rp2q>
+  * Innovators <https://developers.google.com/maps/innovators>
+  * Issue Tracker <https://issuetracker.google.com/bookmark-groups/76561>
+
+  * On this page
+  * Try Sample <#try-sample>
+  * Clone Sample <#clone-sample>
+
+  * Home <https://developers.google.com/>
+  *
+    Products <https://developers.google.com/products>
+  *
+    Google Maps Platform <https://developers.google.com/maps>
+  *
+    Documentation <https://developers.google.com/maps/documentation>
+  *
+    Web <https://developers.google.com/maps/web>
+  *
+    Maps JavaScript API <https://developers.google.com/maps/
+    documentation/javascript>
+  *
+    Samples <https://developers.google.com/maps/documentation/
+    javascript/examples>
+
+Was this helpful?
+
+Send feedback
+
+
+  Distance Matrix Service
+  bookmark_borderbookmark
+
+  Stay organized with collections Save and categorize content based on
+  your preferences.
+
+  * On this page
+  * Try Sample <#try-sample>
+  * Clone Sample <#clone-sample>
+*
+
+This example demonstrates the use of the |DistanceMatrixService| object
+to fetch the distances between a set of locations.
+
+Read the documentation <https://developers.google.com/maps/
+documentation/javascript/distancematrix>.
+
+TypeScript <#typescript>
+
+JavaScript <#javascript>
+
+CSS <#css>
+
+HTML <#html>
+
+More
+
+function initMap(): void {
+  const bounds = new google.maps.LatLngBounds();
+  const markersArray: google.maps.Marker[] = [];
+
+  const map = new google.maps.Map(
+    document.getElementById("map") as HTMLElement,
+    {
+      center: { lat: 55.53, lng: 9.4 },
+      zoom: 10,
+    }
+  );
+
+  // initialize services
+  const geocoder = new google.maps.Geocoder();
+  const service = new google.maps.DistanceMatrixService();
+
+  // build request
+  const origin1 = { lat: 55.93, lng: -3.118 };
+  const origin2 = "Greenwich, England";
+  const destinationA = "Stockholm, Sweden";
+  const destinationB = { lat: 50.087, lng: 14.421 };
+
+  const request = {
+    origins: [origin1, origin2],
+    destinations: [destinationA, destinationB],
+    travelMode: google.maps.TravelMode.DRIVING,
+    unitSystem: google.maps.UnitSystem.METRIC,
+    avoidHighways: false,
+    avoidTolls: false,
+  };
+
+  // put request on page
+  (document.getElementById("request") as HTMLDivElement).innerText =
+    JSON.stringify(request, null, 2);
+
+  // get distance matrix response
+  service.getDistanceMatrix(request).then((response) => {
+    // put response
+    (document.getElementById("response") as HTMLDivElement).innerText =
+      JSON.stringify(response, null, 2);
+
+    // show on map
+    const originList = response.originAddresses;
+    const destinationList = response.destinationAddresses;
+
+    deleteMarkers(markersArray);
+
+    const showGeocodedAddressOnMap = (asDestination: boolean) => {
+      const handler = ({ results }: google.maps.GeocoderResponse) => {
+        map.fitBounds(bounds.extend(results[0].geometry.location));
+        markersArray.push(
+          new google.maps.Marker({
+            map,
+            position: results[0].geometry.location,
+            label: asDestination ? "D" : "O",
+          })
+        );
+      };
+
+      return handler;
+    };
+
+    for (let i = 0; i < originList.length; i++) {
+      const results = response.rows[i].elements;
+
+      geocoder
+        .geocode({ address: originList[i] })
+        .then(showGeocodedAddressOnMap(false));
+
+      for (let j = 0; j < results.length; j++) {
+        geocoder
+          .geocode({ address: destinationList[j] })
+          .then(showGeocodedAddressOnMap(true));
+      }
+    }
+  });
+}
+
+function deleteMarkers(markersArray: google.maps.Marker[]) {
+  for (let i = 0; i < markersArray.length; i++) {
+    markersArray[i].setMap(null);
+  }
+
+  markersArray = [];
+}
+
+declare global {
+  interface Window {
+    initMap: () => void;
+  }
+}
+window.initMap = initMap;
+index.ts <https://github.com/googlemaps/js-samples/blob/2683f7366fb27829401945d2a7e27d77ed2df8e5/samples/distance-matrix/index.ts#L10-L101>
+
+*Note:* Read the guide <https://developers.google.com/maps/
+documentation/javascript/using-typescript> on using TypeScript and
+Google Maps.
+
+function initMap() {
+  const bounds = new google.maps.LatLngBounds();
+  const markersArray = [];
+  const map = new google.maps.Map(document.getElementById("map"), {
+    center: { lat: 55.53, lng: 9.4 },
+    zoom: 10,
+  });
+  // initialize services
+  const geocoder = new google.maps.Geocoder();
+  const service = new google.maps.DistanceMatrixService();
+  // build request
+  const origin1 = { lat: 55.93, lng: -3.118 };
+  const origin2 = "Greenwich, England";
+  const destinationA = "Stockholm, Sweden";
+  const destinationB = { lat: 50.087, lng: 14.421 };
+  const request = {
+    origins: [origin1, origin2],
+    destinations: [destinationA, destinationB],
+    travelMode: google.maps.TravelMode.DRIVING,
+    unitSystem: google.maps.UnitSystem.METRIC,
+    avoidHighways: false,
+    avoidTolls: false,
+  };
+
+  // put request on page
+  document.getElementById("request").innerText = JSON.stringify(
+    request,
+    null,
+    2,
+  );
+  // get distance matrix response
+  service.getDistanceMatrix(request).then((response) => {
+    // put response
+    document.getElementById("response").innerText = JSON.stringify(
+      response,
+      null,
+      2,
+    );
+
+    // show on map
+    const originList = response.originAddresses;
+    const destinationList = response.destinationAddresses;
+
+    deleteMarkers(markersArray);
+
+    const showGeocodedAddressOnMap = (asDestination) => {
+      const handler = ({ results }) => {
+        map.fitBounds(bounds.extend(results[0].geometry.location));
+        markersArray.push(
+          new google.maps.Marker({
+            map,
+            position: results[0].geometry.location,
+            label: asDestination ? "D" : "O",
+          }),
+        );
+      };
+      return handler;
+    };
+
+    for (let i = 0; i < originList.length; i++) {
+      const results = response.rows[i].elements;
+
+      geocoder
+        .geocode({ address: originList[i] })
+        .then(showGeocodedAddressOnMap(false));
+
+      for (let j = 0; j < results.length; j++) {
+        geocoder
+          .geocode({ address: destinationList[j] })
+          .then(showGeocodedAddressOnMap(true));
+      }
+    }
+  });
+}
+
+function deleteMarkers(markersArray) {
+  for (let i = 0; i < markersArray.length; i++) {
+    markersArray[i].setMap(null);
+  }
+
+  markersArray = [];
+}
+
+window.initMap = initMap;
+index.js <https://github.com/googlemaps/js-samples/blob/2683f7366fb27829401945d2a7e27d77ed2df8e5/dist/samples/distance-matrix/docs/index.js#L8-L91>
+
+*Note:* The JavaScript is compiled from the TypeScript snippet.
+
+/* Optional: Makes the sample page fill the window. */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  height: 100%;
+  display: flex;
+}
+
+#sidebar {
+  flex-basis: 15rem;
+  flex-grow: 1;
+  padding: 1rem;
+  max-width: 30rem;
+  height: 100%;
+  box-sizing: border-box;
+  overflow: auto;
+}
+
+#map {
+  flex-basis: 0;
+  flex-grow: 4;
+  height: 100%;
+}
+
+#sidebar {
+  flex-direction: column;
+}
+style.css <https://github.com/googlemaps/js-samples/blob/2683f7366fb27829401945d2a7e27d77ed2df8e5/dist/samples/distance-matrix/docs/style.css#L7-L39>
+
+<html>
+  <head>
+    <title>Distance Matrix Service</title>
+
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <script type="module" src="./index.js"></script>
+  </head>
+  <body>
+    <div id="container">
+      <div id="map"></div>
+      <div id="sidebar">
+        <h3 style="flex-grow: 0">Request</h3>
+        <pre style="flex-grow: 1" id="request"></pre>
+        <h3 style="flex-grow: 0">Response</h3>
+        <pre style="flex-grow: 1" id="response"></pre>
+      </div>
+    </div>
+
+    <!-- 
+      The `defer` attribute causes the script to execute after the full HTML
+      document has been parsed. For non-blocking uses, avoiding race conditions,
+      and consistent behavior across browsers, consider loading using Promises. See
+      https://developers.google.com/maps/documentation/javascript/load-maps-js-api
+      for more information.
+      -->
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initMap&v=weekly"
+      defer
+    ></script>
+  </body>
+</html>
+index.html <https://github.com/googlemaps/js-samples/blob/2683f7366fb27829401945d2a7e27d77ed2df8e5/dist/samples/distance-matrix/docs/index.html#L8-L38>
+
+
+      Try Sample
+
+JSFiddle.net <https://jsfiddle.net/gh/get/library/pure/googlemaps/js-
+samples/tree/master/dist/samples/distance-matrix/jsfiddle> Google Cloud
+Shell <https://ssh.cloud.google.com/cloudshell/editor?
+cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Fgooglemaps%2Fjs-
+samples&cloudshell_git_branch=sample-distance-
+matrix&cloudshell_tutorial=cloud_shell_instructions.md&cloudshell_workspace=.>
+
+
+      Clone Sample
+
+Git and Node.js are required to run this sample locally. Follow these
+instructions <https://docs.npmjs.com/downloading-and-installing-node-js-
+and-npm> to install Node.js and NPM. The following commands clone,
+install dependencies and start the sample application.
+
+  |git clone -b sample-distance-matrix https://github.com/googlemaps/js-samples.git|
+  |cd js-samples|
+  |npm i|
+  |npm start|
+
+Other samples can be tried by switching to any branch beginning with |
+sample-SAMPLE_NAME|.
+
+  |git checkout sample-
+
+SAMPLE_NAME|
+  |npm i|
+  |npm start|
+
+Was this helpful?
+
+Send feedback
+
+Except as otherwise noted, the content of this page is licensed under
+the Creative Commons Attribution 4.0 License <https://
+creativecommons.org/licenses/by/4.0/>, and code samples are licensed
+under the Apache 2.0 License <https://www.apache.org/licenses/
+LICENSE-2.0>. For details, see the Google Developers Site Policies
+<https://developers.google.com/site-policies>. Java is a registered
+trademark of Oracle and/or its affiliates.
+
+Last updated 2025-05-28 UTC.
+
+Need to tell us more? [[["Easy to understand","easyToUnderstand","thumb-
+up"],["Solved my problem","solvedMyProblem","thumb-up"],
+["Other","otherUp","thumb-up"]],[["Missing the information I
+need","missingTheInformationINeed","thumb-down"],["Too complicated / too
+many steps","tooComplicatedTooManySteps","thumb-down"],["Out of
+date","outOfDate","thumb-down"],["Samples / code
+issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-
+down"]],["Last updated 2025-05-28 UTC."],[[["This example showcases the
+use of the `DistanceMatrixService` to calculate and display distances
+between multiple locations."],["It utilizes the Google Maps JavaScript
+API to retrieve distances and display them on a map."],["The sample code
+demonstrates how to make a request to the Distance Matrix service and
+handle the response."],["It provides both TypeScript and JavaScript code
+snippets for implementation."],["Users can interact with the example
+through JSFiddle or Google Cloud Shell, and can clone the sample code
+for local execution."]]],["The code initializes a
+`DistanceMatrixService` to calculate distances between locations. It
+defines two origins (one coordinate pair and one address) and two
+destinations (one address and one coordinate pair). A request is built
+with these points and driving mode, then submitted to the service. The
+response is displayed, and a geocoder determines the location of
+origins/destinations to add markers to the map and delete the markers if
+needed. The request and response are displayed in HTML as text.\n"]]
+
+  * Stack Overflow Stack Overflow <http://stackoverflow.com/questions/
+    tagged/google-maps>
+    Ask a question under the google-maps tag.
+  * GitHub GitHub <https://github.com/googlemaps/>
+    Fork our samples and try them yourself.
+  * Discord Discord <https://discord.gg/f4hvx8Rp2q>
+    Chat with fellow developers about Google Maps Platform.
+  * Issue Tracker Issue Tracker <https://issuetracker.google.com/issues/
+    new?component=188853&template=788207>
+    Something wrong? Send us a bug report!
+
+  *
+
+
+          Learn More
+
+      o FAQ <https://developers.google.com/maps/faq>
+      o API Picker <https://developers.google.com/maps/documentation/
+        api-picker>
+      o Tutorials <https://developers.google.com/maps/documentation/
+        javascript/tutorials>
+  *
+
+
+          Platforms
+
+      o Android <https://developers.google.com/maps/apis-by-
+        platform#android>
+      o iOS <https://developers.google.com/maps/apis-by-platform#ios>
+      o Web <https://developers.google.com/maps/apis-by-platform#web_apis>
+      o Web Services <https://developers.google.com/maps/apis-by-
+        platform#web_service_apis>
+  *
+
+
+          Product Info
+
+      o Pricing and Plans <https://developers.google.com/maps/pricing-
+        and-plans>
+      o Contact Sales <https://cloud.google.com/contact-maps/>
+      o Support <https://developers.google.com/maps/support/>
+      o Terms of Service <https://cloud.google.com/maps-platform/terms>
+
+Google Developers
+
+<https://developers.google.com/>
+
+  * Android <https://developer.android.com/>
+  * Chrome <https://developer.chrome.com/home>
+  * Firebase <https://firebase.google.com/>
+  * Google Cloud Platform <https://cloud.google.com/>
+  * Google AI <https://ai.google.dev/>
+  * All products <https://developers.google.com/products>
+
+  * Terms <https://developers.google.com/terms/site-terms>
+  * Privacy <https://policies.google.com/privacy>
+  * Manage cookies <#>
+  * Sign up for the Google for Developers newsletter Subscribe <https://
+    developers.google.com/newsletter/subscribe>
+
+  * English <https://developers.google.com/maps/documentation/
+    javascript/examples/distance-matrix#maps_distance_matrix-typescript>
+  * Deutsch <https://developers.google.com/maps/documentation/
+    javascript/examples/distance-matrix?hl=de#maps_distance_matrix-
+    typescript>
+  * Español <https://developers.google.com/maps/documentation/
+    javascript/examples/distance-matrix?hl=es#maps_distance_matrix-
+    typescript>
+  * Français <https://developers.google.com/maps/documentation/
+    javascript/examples/distance-matrix?hl=fr#maps_distance_matrix-
+    typescript>
+  * Indonesia <https://developers.google.com/maps/documentation/
+    javascript/examples/distance-matrix?hl=id#maps_distance_matrix-
+    typescript>
+  * Português – Brasil <https://developers.google.com/maps/
+    documentation/javascript/examples/distance-matrix?hl=pt-
+    br#maps_distance_matrix-typescript>
+  * Русский <https://developers.google.com/maps/documentation/
+    javascript/examples/distance-matrix?hl=ru#maps_distance_matrix-
+    typescript>
+  * 中文 – 简体 <https://developers.google.com/maps/documentation/
+    javascript/examples/distance-matrix?hl=zh-cn#maps_distance_matrix-
+    typescript>
+  * 日本語 <https://developers.google.com/maps/documentation/javascript/
+    examples/distance-matrix?hl=ja#maps_distance_matrix-typescript>
+  * 한국어 <https://developers.google.com/maps/documentation/javascript/
+    examples/distance-matrix?hl=ko#maps_distance_matrix-typescript>
+
+Info
+
+Chat
+
+API
+

@@ -1,4 +1,4 @@
-Postcode,Park,Distance,Travel_Time
+Postcode,Destination,Distance,Travel_Time
 5070,Anstey,11.75,16.82
 5070,Morialta,6.99,11.92
 5070,Belair,15.66,23.8
@@ -26,9 +26,9 @@ Postcode,Park,Distance,Travel_Time
 5114,Anstey,16.58,17.62
 5114,Morialta,28.51,33.65
 5114,Belair,43.96,57.03
-5114,Bowker,49.29,56.03
+5114,Bowker,49.29,56.07
 5114,Felixstow,27.48,32.83
-5114,Lefevre,30.9,35.77
+5114,Lefevre,30.9,35.8
 5076,Anstey,10.1,13.22
 5076,Morialta,3.87,5.43
 5076,Belair,23.49,33.75
@@ -71,12 +71,6 @@ Postcode,Park,Distance,Travel_Time
 5125,Bowker,42.16,52.08
 5125,Felixstow,17.57,24.23
 5125,Lefevre,20.86,28.88
-5080,Anstey,,
-5080,Morialta,,
-5080,Belair,,
-5080,Bowker,,
-5080,Felixstow,,
-5080,Lefevre,,
 5095,Anstey,13.35,19.0
 5095,Morialta,14.55,22.2
 5095,Belair,24.87,38.1
@@ -173,12 +167,6 @@ Postcode,Park,Distance,Travel_Time
 5075,Bowker,23.68,38.42
 5075,Felixstow,3.72,6.77
 5075,Lefevre,10.45,16.82
-8024,Anstey,,
-8024,Morialta,,
-8024,Belair,,
-8024,Bowker,,
-8024,Felixstow,,
-8024,Lefevre,,
 5554,Anstey,149.67,110.37
 5554,Morialta,154.79,115.28
 5554,Belair,166.27,122.95
@@ -323,12 +311,6 @@ Postcode,Park,Distance,Travel_Time
 5158,Bowker,10.41,13.95
 5158,Felixstow,28.24,40.22
 5158,Lefevre,24.21,33.85
-5055,Anstey,,
-5055,Morialta,,
-5055,Belair,,
-5055,Bowker,,
-5055,Felixstow,,
-5055,Lefevre,,
 5031,Anstey,19.67,31.15
 5031,Morialta,16.65,28.05
 5031,Belair,15.52,26.15
